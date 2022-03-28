@@ -4,13 +4,13 @@ Repositorio con listado de recursos de Game Desing / Game Development
 ---
 
 ## Game Design
-- Level Up, *Scott Roggers* **LIBRO**
-- The Art of Game Dessing, *Jesse Schell* **LIBRO**
+- Level Up, *Scott Rogers* **LIBRO**
+- The Art of Game Design, *Jesse Schell* **LIBRO**
 
 ---
 
 ## IA
-- [https://www.youtube.com/playlist?list=PLjgIloP4GqvkY0bNzlAvg4M77VrVQ68A2] **VIDEO**
+- [Lista de YT](https://www.youtube.com/playlist?list=PLjgIloP4GqvkY0bNzlAvg4M77VrVQ68A2) **VIDEO**
 
 ---
 
